@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Miami Heat" tvg-logo="" group-title="NBA (solo eventos)",NBA | Miami Heat
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54093
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Memphis Grizzlies" tvg-logo="" group-title="NBA (solo eventos)",NBA | Memphis Grizzlies
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54094
+#EXTINF:-1 tvg-id="AR - El Trece" tvg-name="Argentina: EL TRECE INTERNACIONAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="Argentina",Argentina: EL TRECE INTERNACIONAL HD
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37223
+#EXTINF:-1 tvg-id="" tvg-name="Cine: TBS HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="Cine",Cine: TBS HQ
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37230
+#EXTINF:-1 tvg-id="TV AGRO" tvg-name="Colombia: TV AGRO" tvg-logo="https://pbs.twimg.com/profile_images/499602179754188800/qZeZ6Xqa.jpeg" group-title="Colombia",Colombia: TV AGRO
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54505
+#EXTINF:-1 tvg-id="" tvg-name="Deportes: MOVISTAR F1 Esp" tvg-logo="https://p.kindpng.com/picc/s/47-477972_movistar-deportes-1-logo-hd-png-download.png" group-title="Deportes",Deportes: MOVISTAR F1 Esp
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/37131
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay: MAROÑAS" tvg-logo="https://seeklogo.com/images/M/maro__as-logo-E873D14D49-seeklogo.com.png" group-title="Uruguay",Uruguay: MAROÑAS
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/57994
+#EXTINF:-1 tvg-id="TNU HD" tvg-name="Uruguay: TNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_Televisi%C3%B3n_Nacional_Uruguay.png" group-title="Uruguay",Uruguay: TNU
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/57995
+#EXTINF:-1 tvg-id="Canal Fox Sports Premium (Argentina)" tvg-name="Deportes: FOX SPORTS PREMIUM opc2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png" group-title="Deportes",Deportes: FOX SPORTS PREMIUM opc2
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54507
+#EXTINF:-1 tvg-id="" tvg-name="Deportes: TNT SPORTS opc2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="Deportes",Deportes: TNT SPORTS opc2
+http://run.cableplay.net:25461/Cavatv50conex/Restream50ok123/54508
+
